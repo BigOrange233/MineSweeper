@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="title_activity_menu_activities">MenuActivities</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="name">
+        <a href="https://opencoursehub.cs.sfu.ca/jackt/grav-cms/cmpt276-2/home">
+            Author is Jiaming (Vincent) Gong.
+        </a>
+    </string>
+    <string name="rule">
+        It\'s a "Mine Sweeper" game, but you need to find the Lost Submarine that is hidden from the deep sea.\n
+        Try with least search to find all of the submarines.\n
+        click on the button can rather tells you if it\'s the submarine or you missed this shot.\n
+        If you get a number, which is the clue of how many submarine in this row or colum.
+        If you find a submarine, The number will update.\n
+        Scans only increase when you missed the submarine.\n
+        Good Luck and Have Fun!
+    </string>
+    <string name="cite">
+        <a href="https://www.flaticon.com/download/icon/landing/2739377?format=png&amp;size=512">
+            submarine icon
+        </a>
+        <a href="https://image.freepik.com/free-vector/pink-submarine-with-many-fishes-pastel-style_65496-402.jpg">
+            sub sea background
+        </a>
+        <a href ="https://cdn.clipart.email/57e9ab40d930bcbf64f8440a347780a5_cute-submarine-clipart_236-177.jpeg">
+            submarine picture.
+        </a>
+    </string>
+</resources>
