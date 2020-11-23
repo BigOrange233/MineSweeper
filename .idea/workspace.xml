@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-29</target>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f839efd-e37e-4f3e-bf12-8ed3e7959928" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/gongs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/gongs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/example/assignment3/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/assignment3/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/MenuActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/MenuActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/HelpActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/HelpActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/OptionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/OptionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/PlayActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/component/PlayActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/model/UserPref.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/model/UserPref.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/model/location.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/assignment3/model/location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/sub.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sub.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_help.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_option.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_option.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_play.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_play.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/wonpage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/wonpage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/example/assignment3/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/example/assignment3/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_XL_API_29]" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Assignment3\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="layoutResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j8T3cjaFC0Z75MfZzHAtMR4Ckt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_29" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-22T05:38:48.641Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/LinearLayout.java_SELECTED" value="LinearLayout" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/TableLayout.java_SELECTED" value="TableLayout" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/TableRow.java_SELECTED" value="TableRow" />
+    <property name="android-custom-viewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-30/android/widget/TableLayout.java_SELECTED" value="TableLayout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/view/ViewGroup.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/LinearLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/TableLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-29/android/widget/TableRow.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/gongs/AppData/Local/Android/Sdk/sources/android-30/android/widget/TableLayout.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../../../../../桌面/GamePlay.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1719241943">
+      <recent name="com.example.assignment3.component" />
+    </key>
+    <key name="android.template.2100157692">
+      <recent name="com.example.assignment3.component" />
+    </key>
+    <key name="android.template.-1852249799">
+      <recent name="com.example.assignment3" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gongs\OneDrive\AAA-CLASS-AAA\2020 FALL\CMPT 276\Assignments\Assignment3\app\src\main\res\mipmap-hdpi" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.assignment3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Assignment3.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f839efd-e37e-4f3e-bf12-8ed3e7959928" name="Default Changelist" comment="" />
+      <created>1603184520559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603184520559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1312" y="358" key="#Inspections" timestamp="1603186271045">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="358" key="#Inspections/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603186271045" />
+    <state x="1312" y="358" key="#Servers" timestamp="1603258845674">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1312" y="358" key="#Servers/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603258845674" />
+    <state x="1439" y="345" key="#app" timestamp="1603193375930">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1439" y="345" key="#app/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603193375930" />
+    <state x="1450" y="454" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603200029392">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1450" y="454" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603200029392" />
+    <state x="1477" y="502" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603185866435">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1477" y="502" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603185866435" />
+    <state x="1508" y="431" key="#com.intellij.ide.util.MemberChooser" timestamp="1603421916410">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1508" y="431" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603421916410" />
+    <state x="547" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603334734500">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="547" y="435" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603334734500" />
+    <state x="1221" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603198053121">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1221" y="625" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603198053121" />
+    <state x="1516" y="580" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603198055200">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1516" y="580" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603198055200" />
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603348176518">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="443" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603348176518" />
+    <state x="1450" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603349010013">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1450" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603349010013" />
+    <state x="1300" y="454" key="AndroidCreateResourceFileDialog" timestamp="1603295333912">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1300" y="454" key="AndroidCreateResourceFileDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603295333912" />
+    <state x="1578" y="512" key="AndroidCreateXmlResourceDialog" timestamp="1603185240649">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1578" y="512" key="AndroidCreateXmlResourceDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603185240649" />
+    <state x="1648" y="48" width="1536" height="1216" key="DiffContextDialog" timestamp="1603428663434">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1648" y="48" width="1536" height="1216" key="DiffContextDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603428663434" />
+    <state x="1087" y="446" key="FileChooserDialogImpl" timestamp="1603685004088">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1087" y="446" key="FileChooserDialogImpl/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603685004088" />
+    <state width="3397" height="383" key="GridCell.Tab.0.bottom" timestamp="1603430762259">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="383" key="GridCell.Tab.0.bottom/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603430762259" />
+    <state width="3397" height="383" key="GridCell.Tab.0.center" timestamp="1603430762259">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="383" key="GridCell.Tab.0.center/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603430762259" />
+    <state width="3397" height="383" key="GridCell.Tab.0.left" timestamp="1603430762259">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="383" key="GridCell.Tab.0.left/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603430762259" />
+    <state width="3397" height="383" key="GridCell.Tab.0.right" timestamp="1603430762259">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="383" key="GridCell.Tab.0.right/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603430762259" />
+    <state width="3397" height="482" key="GridCell.Tab.1.bottom" timestamp="1603345106069">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="482" key="GridCell.Tab.1.bottom/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603345106069" />
+    <state width="3397" height="482" key="GridCell.Tab.1.center" timestamp="1603345106068">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="482" key="GridCell.Tab.1.center/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603345106068" />
+    <state width="3397" height="482" key="GridCell.Tab.1.left" timestamp="1603345106068">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="482" key="GridCell.Tab.1.left/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603345106068" />
+    <state width="3397" height="482" key="GridCell.Tab.1.right" timestamp="1603345106069">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3397" height="482" key="GridCell.Tab.1.right/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603345106068" />
+    <state x="641" y="293" key="SettingsEditor" timestamp="1603335026062">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="641" y="293" key="SettingsEditor/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603335026062" />
+    <state x="1426" y="318" key="refactoring.ChangeSignatureDialog" timestamp="1603197673608">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1426" y="318" key="refactoring.ChangeSignatureDialog/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603197673608" />
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1603421018053">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-2560.0.2560.1400@0.0.3440.1400" timestamp="1603421018053" />
+  </component>
+</project>
