@@ -1,3 +1,4 @@
 # MineSweeper
 
-2020/10/21   solo assignment
+2020/10/21   Mine Sweeper Android Game
+written in AndroidStudio
